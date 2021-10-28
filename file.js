@@ -1,1 +1,1 @@
-console.log('Cambiato')
+alert('Hello there!');
